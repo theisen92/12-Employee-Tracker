@@ -47,5 +47,7 @@ Updating an employee
 
 ![image updating the employee](imgs/show-updated-emp.png)
 
+## Video Demo
+
 <a href="https://www.youtube.com/watch?v=L5-zun_MkIE&feature=youtu.be" target="_blank"><img src="imgs/yt-snaphshot.png" 
 alt="image of the video employee tracker demo - link to to demo video" width="300" height="200"/></a>
