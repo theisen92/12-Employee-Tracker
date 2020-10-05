@@ -1,4 +1,3 @@
 # 12-Employee-Tracker
 
-(imgs/add-emp.png)
-Format: ![Alt Text]
+![alt text](imgs/add-emp.png)
