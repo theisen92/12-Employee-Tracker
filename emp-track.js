@@ -1,7 +1,8 @@
-var mysql = require("mysql");
-var inquirer = require("inquirer");
-var figlet = require("figlet");
+const mysql = require("mysql");
+const inquirer = require("inquirer");
+const figlet = require("figlet");
 const cTable = require("console.table");
+const userCred = require("./config");
 
 // Create the connection information for the sql database
 
@@ -14,11 +15,11 @@ var connection = mysql.createConnection({
 
   // Your username
 
-  user: "ice_admin",
+  user: userCred.user,
 
   // Your password
 
-  password: "password",
+  password: userCred.password,
   database: "emp_DB",
 
   // To allow for multiple statements
