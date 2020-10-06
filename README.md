@@ -52,11 +52,11 @@ alt="image of the video employee tracker demo - link to to demo video" width="30
 
 ![image updating the employee](imgs/update-emp-info.png)
 
-<<<<<<< HEAD
+
 ![image updating the employee](imgs/show-updated-emp.png)
-=======
+
 - Showing the updated employee
 
 ![image updating the employee](imgs/show-updated-emp.png)
 
->>>>>>> ac3391f780499c42c949deae168f1fe696432dd2
+
